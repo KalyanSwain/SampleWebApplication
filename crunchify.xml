@@ -11,7 +11,7 @@
 	<includeBaseDirectory>false</includeBaseDirectory>
 	<fileSets>
 		<fileSet>
-			<directory>src/com/crunchify/tutorial</directory>
+			<directory>SampleWebApplication</directory>
 			<outputDirectory>crunchify-output</outputDirectory>
 		</fileSet>
 	</fileSets>
